@@ -52,7 +52,7 @@
 ## 🟣 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,cpp,c,aws,azure,mysql,cloudflare,photoshop,lightroom,premiere,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,cpp,c,aws,azure,mysql,cloudflare,photoshop,premiere,canva" />
   <br>
   <img src="https://img.shields.io/badge/Burp%20Suite-9B59B6?style=for-the-badge&logo=burp-suite&logoColor=white" />
 </p>
