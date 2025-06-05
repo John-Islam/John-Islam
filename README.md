@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=60&section=footer" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Hacker%20in%20Progress-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-8E44AD?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Dev-6C3483?style=for-the-badge&logo=code&logoColor=white" />
