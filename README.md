@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1dIoYw1QFh6U/giphy.gif" width="300" alt="Purple Matrix Hacker"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=There+is+no+place+like+127.0.0.1" alt="There is no place like 127.0.0.1" />
 </p>
 
 <p align="center">
